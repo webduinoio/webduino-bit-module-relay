@@ -1,7 +1,7 @@
 {
   "types": [
-    "rgbled_new_bit",
-    "rgbled_setcolor"
+    "relay_new_bit",
+    "relay_state"
   ],
   "category": "catMenu2",
   "scripts": [
@@ -9,7 +9,7 @@
     "blockly/javascript.js"
   ],
   "dependencies": [
-    "BitRGBLed-blockly.js"
+    "BitRelay-blockly.js"
   ],
   "msg": "blockly/msg",
   "blocksMsg": "blockly/msg/blocks",
