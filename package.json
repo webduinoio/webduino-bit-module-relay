@@ -1,0 +1,27 @@
+{
+  "name": "webduino-bit-module-relay",
+  "version": "1.0.0",
+  "description": "🔌 Block Module for Relay of Webduino:bit",
+  "main": "BitRelay-blockly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webduinoio/webduino-bit-module-relay.git"
+  },
+  "keywords": [
+    "arduino",
+    "webduino",
+    "relay"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webduinoio/webduino-bit-module-relay/issues"
+  },
+  "homepage": "https://webduino.io",
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "types": [
+    "rgbled_new_bit",
+    "rgbled_setcolor"
+  ],
+  "category": "catMenu2",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "BitRGBLed-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}
